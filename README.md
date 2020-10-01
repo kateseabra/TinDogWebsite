@@ -1,3 +1,3 @@
-# Tingdog-Website
-Using Html, Css and Bootstrap
+# tingdog-website
+using Html, Css and Bootstrap
 Mockup TinDog website
